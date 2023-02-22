@@ -29,6 +29,7 @@
 .sidebarItem >img{
     margin-top: 15px;
     width: 250px;
+    border-radius: 5px;
 }
 .sidebarItem>p{
     padding: 30px;
