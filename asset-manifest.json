@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Gaurav-Blog/static/css/main.868e1f03.css",
-    "main.js": "/Gaurav-Blog/static/js/main.6146bf91.js",
+    "main.js": "/Gaurav-Blog/static/js/main.3d374001.js",
     "index.html": "/Gaurav-Blog/index.html",
     "main.868e1f03.css.map": "/Gaurav-Blog/static/css/main.868e1f03.css.map",
-    "main.6146bf91.js.map": "/Gaurav-Blog/static/js/main.6146bf91.js.map"
+    "main.3d374001.js.map": "/Gaurav-Blog/static/js/main.3d374001.js.map"
   },
   "entrypoints": [
     "static/css/main.868e1f03.css",
-    "static/js/main.6146bf91.js"
+    "static/js/main.3d374001.js"
   ]
 }
